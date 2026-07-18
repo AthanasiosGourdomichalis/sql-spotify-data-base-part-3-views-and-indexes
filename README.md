@@ -1,0 +1,2 @@
+# SQL_Spotify_Data_Base_Assignment_3_Views_and_Indexes
+This assignment focuses on utilizing Views to simplify complex queries and studying Indexes to optimize performance, exclusively within the SQLite environment. The pre-existing database schema is assumed to be the one designed in the 1st Assignment in the following link: https://github.com/AthanasiosGourdomichalis/SQL_Spotify_Data_Base_Assignment_1
