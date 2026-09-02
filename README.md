@@ -1,10 +1,10 @@
 # SQL_Spotify_Data_Base_Assignment_3_Views_and_Indexes
 
-ASSINGMENT 3: Views and Indexes (SQLite Edition) 
+REPO 3: Views and Indexes (SQLite Edition) 
 --------------------------------------------------------------------------------------------------------------------------------
 1. Objective
    
-This assignment focuses on utilizing Views to simplify complex 
+This repo focuses on utilizing Views to simplify complex 
 queries and studying Indexes to optimize performance, exclusively 
 within the SQLite environment.
 --------------------------------------------------------------------------------------------------------------------------------
