@@ -11,7 +11,7 @@ within the SQLite environment.
 2. Prerequisites
     
 The pre-existing database schema is assumed to be the one designed 
-in the 1st Assignment in the following link: https://github.com/AthanasiosGourdomichalis/SQL_Spotify_Data_Base_Assignment_1 .
+in the 1st Assignment in the following link: https://github.com/AthanasiosGourdomichalis/sql-spotify-data-base-part-1 .
 All answers and explanations must be provided as SQL comments (using /* ... */) within the 
 respective script files to ensure that they remain fully executable.
 --------------------------------------------------------------------------------------------------------------------------------
