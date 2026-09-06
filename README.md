@@ -1,4 +1,4 @@
-# SQL Spotify Data Base part 3 Views and Indexes
+# SQL Spotify Data Base part 3: Views and Indexes
 
 REPO 3: Views and Indexes (SQLite Edition) 
 --------------------------------------------------------------------------------------------------------------------------------
