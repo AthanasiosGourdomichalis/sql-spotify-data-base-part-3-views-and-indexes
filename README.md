@@ -91,3 +91,10 @@ analysis on automatic index generation formatted as SQL comments
 
 • c.sql: Contains the CREATE INDEX DDL commands and the 
 corresponding EXPLAIN QUERY PLAN commands (Query 5). 
+
+---
+
+# 👤 Author
+## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+
+---
