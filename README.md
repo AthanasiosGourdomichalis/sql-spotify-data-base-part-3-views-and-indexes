@@ -93,8 +93,7 @@ analysis on automatic index generation formatted as SQL comments
 corresponding EXPLAIN QUERY PLAN commands (Query 5). 
 
 ---
-
 # 👤 Author
-## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+## **Athanasios Gourdomichalis** - [GitHub Profile](https://github.com/AthanasiosGourdomichalis)
 
 ---
